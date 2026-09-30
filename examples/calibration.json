@@ -1,0 +1,1 @@
+{"id":"CAL-2026-001","at":"2026-10-01T00:00:00Z","by":"Accredited Lab","certificateId":"CERT-001","standardIds":["STD-001"],"environment":{"temperature":22,"humidity":45},"specification":{"tolerance":0.01,"guardBandFactor":1},"asFoundReadings":[{"reference":5,"indicated":5.002,"uncertainty":0.001}],"notes":"Annual calibration"}
