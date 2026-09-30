@@ -1,5 +1,5 @@
 node_modules/
 coverage/
-asset.json
+/asset.json
 report.md
 *.log
